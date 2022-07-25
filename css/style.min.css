@@ -5,8 +5,8 @@ html {
 body {
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
-    color: rgb(0, 0, 0);
-    background-color: #ffffff;
+    color: #000;
+    background-color: #f4ede5;
 }
 
 .h1,
@@ -55,7 +55,7 @@ button:focus {
 .btn:hover,
 a:hover {
     text-decoration: none;
-    color: #6e16d3;
+    color: #e22104;
 }
 
 .btn-icon {
@@ -403,7 +403,7 @@ a:hover {
     position: absolute;
     display: block;
     content: "";
-    background: rgb(80, 6, 95);
+    background: #000;
     opacity: 0.2;
     top: 0;
     bottom: 0;
@@ -438,7 +438,7 @@ a:hover {
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 60px;
-    color: rgb(100, 13, 139);
+    color: #fff;
 }
 
 .sidenav-content {
@@ -457,13 +457,13 @@ a:hover {
 .sidenav a {
     text-decoration: none;
     font-size: 25px;
-    color: #8d2b8d;
+    color: #818181;
     display: block;
     transition: 0.3s;
 }
 
 .sidenav a:hover {
-    color: #8e0c92;
+    color: #f1f1f1;
 }
 
 .sidenav #side-nav-close,
@@ -540,7 +540,7 @@ a:hover {
 }
 
 #gtco-special-dishes h3 span {
-    color: #74129b;
+    color: #f34949;
 }
 
 .dishes-text {
@@ -613,9 +613,3 @@ a:hover {
         height: 500px;
     }
 }
-
-
-/*=====  End of RESPONSIVE  ======*/
-
-
-/*-------- Grid ---------*/
