@@ -309,6 +309,30 @@ a:hover {
 
 /*=====  Menu  ======*/
 
+/*------ Reservacion -----*/
+#gtco-reservation {
+    height: 900px;
+    margin-bottom: 50px;
+    background-size: cover;
+ }
+  
+  #selectPerson + .select2-container--default .select2-selection--single .select2-selection__rendered {
+    line-height: 36px;
+    padding-left: 12px; }
+  
+  #selectPerson + .select2-container .select2-selection--single {
+    height: 38px;
+    border: 1px solid #ced4da; }
+  
+  #selectPerson + .select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 36px; }
+  
+  #selectPerson + .select2-container--default .select2-selection--single .select2-selection__placeholder {
+    color: #6d767e;
+    font-weight: 400; }
+/***------------------Fin reservacion***---/
+
+
 
 /*=================================
 =            Frases           =
